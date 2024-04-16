@@ -3,6 +3,8 @@
 ## Introduction / Overview
 Sparkify is a fictional streaming music service interested in predicting user churn—when users are likely to cancel their service. This project utilizes a comprehensive dataset of user activity to model churn prediction using Apache Spark, allowing for scalable data processing and machine learning model development.
 
+You can visit the related blog post on medium for this project https://medium.com/@miguelguzman.tob/predicting-user-churn-using-sparks-ml-lib-at-sparkify-60fbe8b2c5a4
+
 ## Metrics
 The provided dataset is imbalanced, therefore the measures used to determine the model's performance are precision, recall and f1-score.
 
