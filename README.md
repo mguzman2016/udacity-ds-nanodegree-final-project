@@ -13,8 +13,8 @@ The project uses two datasets:
 
 ## Files
 - `Sparkify.ipynb`: A Jupyter Notebook containing all the code and analysis for the project.
-- `mini_sparkify_event_data_full.json`: Full dataset (12GB) - Might be provided separately.
-- `mini_sparkify_event_data.json`: Subset used for model training.
+- `mini_sparkify_event_data_full.json`: Full dataset (12GB) - Not provided on this repository.
+- `mini_sparkify_event_data.json`: Subset used for model training - Not provided on this repository.
 
 ## Libraries Used
 - PySpark: For data manipulation and model building.
